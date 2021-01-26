@@ -1,0 +1,10 @@
+Package: StemSC
+Type: Package
+Title: An individual human stemness index for single-cell samples
+Version: 1.0.1
+Author: Hailong Zheng
+Maintainer: Hailong Zheng <zhenghailong_hmu@163.com>
+Description: Calculating the stemness individually  for single-cell samples
+License: Non-commercial use
+Encoding: UTF-8
+LazyData: true
