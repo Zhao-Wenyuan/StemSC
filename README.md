@@ -22,6 +22,12 @@ The example is the gene expression values (RPKM) of embryonic stem cells from da
 # Data input
 Exp, a dataframe with gene expression values (RPKM) where columns are cells and rows are Entrez gene IDs.The within-sample standardization does not change the results, such as TPM and log transformation. 
 
+# Citation
+Please use the following citation:
+```
+https://github.com/Zhao-Wenyuan/StemSC
+```
+
 # Contact email
 Please don't hesitate to address comments/questions/suggestions regarding this R package to:
 zhaowenyuan@ems.hrbmu.edu.cn
