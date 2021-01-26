@@ -1,5 +1,5 @@
 # StemSC
-An individual human stemness index for single-cell samples
+An individual human stemness index for single-cell samples.
 
 # Install
 To install the StemSC, install from github using devtools
